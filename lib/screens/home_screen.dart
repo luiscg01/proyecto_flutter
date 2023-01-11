@@ -6,7 +6,7 @@ class HomeScreen extends StatelessWidget {
  
   Widget build(BuildContext context) {
     return const Center(
-        child: Text('HOME_SCREEN'),
+        child: Text('HOME SCREEN'),
       );
   }
 
